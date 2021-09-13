@@ -12,7 +12,7 @@
 | [A02_2021-Cryptographic_Failures.ar.md](/2021/docs/A02_2021-Cryptographic_Failures.ar.md)                                                             |              |        |            |                |
 | [A03_2021-Injection.ar.md](/2021/docs/A03_2021-Injection.ar.md)                                                                                       |              |        |            |                |
 | [A04_2021-Insecure_Design.ar.md](/2021/docs/A04_2021-Insecure_Design.ar.md)                                                                           |              |        |            |                |
-| [A05_2021-Security_Misconfiguration.ar.md](/2021/docs/A05_2021-Security_Misconfiguration.ar.md)                                                       |              |        |            |                |
+| [A05_2021-Security_Misconfiguration.ar.md](/2021/docs/A05_2021-Security_Misconfiguration.ar.md)                                                       |  محمد الشيخي            |        |جاري العمل            | 15/09/2021               |
 | [A06_2021-Vulnerable_and_Outdated_Components.ar.md](/2021/docs/A06_2021-Vulnerable_and_Outdated_Components.ar.md)                                     |              |        |            |                |
 | [A07_2021-Identification_and_Authentication_Failures.ar.md](/2021/docs/A07_2021-Identification_and_Authentication_Failures.ar.md)                     |              |        |            |                |
 | [A08_2021-Software_and_Data_Integrity_Failures.ar.md](/2021/docs/A08_2021-Software_and_Data_Integrity_Failures.ar.md)                                 |              |        |            |                |
